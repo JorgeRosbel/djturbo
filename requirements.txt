@@ -1,0 +1,6 @@
+mediapipe==0.10.21
+opencv-python==4.8.1.78
+numpy==1.26.3
+sounddevice==0.4.6
+pedalboard
+librosa==0.10.1
